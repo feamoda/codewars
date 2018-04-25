@@ -27,3 +27,4 @@ def sum_two_smallest_numbers(numbers):
     positive_numbers = list(filter(lambda number: number > 0, sorted_num))
     return sum(positive_numbers[:2])
 	
+hello hhh
